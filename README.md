@@ -3,10 +3,15 @@ Scope of this project is to analize the open source data of airbnb listings in t
 CRISP-DM Process:
 
 1. Business Understanding
-- First question: What are the more expensive neighboorhoods in Berlin, accounting number of beds?
+- First question: What are the more expensive neighboorhoods in Berlin, accounting number of beds? Ratio?
+    Since there are apparently neighboorhoods with rather bigger appartments and some with smaller appartments we look at the ratio of price and number of beds to account for that problem in at least some kind of way.
     neighbourhood_group_cleansed
     price
     beds
+
+- How much are airbnb appartments earing in each neighboorhood over certain timeframes?
+    We can predict how much nights are booked by reversing the availability for certain timeframes. Therefore we have to neglect that maybe the host blocked booking for certain timeframes for what ever reason, but thats something we can't filter...
+    availability
 
 - Where do people book airbnbs in Berlin? Which neighboorhoods are the most popular ones?
     neighbourhood_group_cleansed
