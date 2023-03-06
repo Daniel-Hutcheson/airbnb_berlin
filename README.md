@@ -1,3 +1,26 @@
+## Table of contents
+
+1. [Additional requirements](#requirments)
+2. [Project Motivation](#motivation)
+3. [Projectfiles Descriptions](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
+
+## Additional requirements <a name="installation"></a>
+
+There are no specific requirements or installations necessary to compile and run the projectfiles. If you run the code with the standard Anaconda distribution and Python 3 there should be no errors.
+
+## Project Motivation <a name="motivation"></a>
+
+## Project(-file) Descriptions <a name="files"></a>
+
+## Results<a name="results"></a>
+All findings and conclusions are listed and discussed [here](). The code and all files necessary are available on my [Github](https://github.com/Daniel-Hutcheson/airbnb_berlin).
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+
+
 Scope of this project is to analize the open source data of airbnb listings in the city of Berlin, compiled on the 21st December of 2022.
 
 CRISP-DM Process:
