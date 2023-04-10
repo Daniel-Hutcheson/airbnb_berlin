@@ -5,3 +5,4 @@ resource/.DS_Store
 plots
 data_prep.ipynb
 main.ipynb
+. gitignore
