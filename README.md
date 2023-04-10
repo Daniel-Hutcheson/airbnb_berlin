@@ -11,7 +11,7 @@
 There are no specific requirements or installations necessary to compile and run the projectfiles. If you run the code with the standard Anaconda distribution and Python 3 there should be no errors.
 
 ### Project Motivation <a name="motivation"></a>
-For me, living in Berlin and interested in data, I was curios about some airbnb stats about my city. For my brief analysis I tackled the dataset, available [here](http://insideairbnb.com/get-the-data/)(downloaded 01.03.2023), asking following questions:
+For me, living in Berlin and interested in data, I was curios about some airbnb stats about my city. For my brief analysis I tackled the dataset, available [here](http://insideairbnb.com/get-the-data/) (downloaded 01.03.2023), asking following questions:
 
 1. Which neighborhoods are the most popular for tourists visiting Berlin?
 2. Which neighborhoods are there most expensive to book an apartment and which are the more affordable ones?
