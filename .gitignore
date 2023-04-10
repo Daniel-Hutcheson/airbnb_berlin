@@ -1,8 +1,0 @@
-resource/raw_data
-resource/.DS_Store
-.DS_Store
-.vscode
-plots
-data_prep.ipynb
-main.ipynb
-. gitignore
